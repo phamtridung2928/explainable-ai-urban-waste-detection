@@ -1,0 +1,2 @@
+# Documentation scaffold only: no executable model implementation is included yet.
+# Add pinned dependencies after implementation and testing.

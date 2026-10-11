@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the research manuscript."
+title: "Explainable AI for Urban Waste Hotspot Detection"
+authors:
+  - family-names: Pham
+    given-names: Tri Dung
+type: software
+date-released: 2026
